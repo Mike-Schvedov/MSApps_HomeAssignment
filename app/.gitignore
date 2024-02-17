@@ -1,0 +1,3 @@
+/build
+# Ignore the APIKeyManager.kt file inside the utility directory
+utility/APIKeyManager.kt

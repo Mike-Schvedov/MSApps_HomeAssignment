@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "453506489037",
+    "project_id": "msapp-news",
+    "storage_bucket": "msapp-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453506489037:android:88390d7a2fd06bfe8f2784",
+        "android_client_info": {
+          "package_name": "com.mikeschvedov.msapps_home_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453506489037-dba9c50dcg3gdu34imbll0dkqfcr1vjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mikeschvedov.msapps_home_assignment",
+            "certificate_hash": "764f9dc466de1a4e602603becf24e13c67345069"
+          }
+        },
+        {
+          "client_id": "453506489037-lok77pumtnvv6k3cee550ki6thjqnjc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWO1IgOkY-6m46bBX5VTJ4HCyQu0TJCno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453506489037-lok77pumtnvv6k3cee550ki6thjqnjc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
